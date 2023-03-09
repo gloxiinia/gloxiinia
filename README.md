@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi.
 
 [![Gloxiinia's GitHub stats](https://github-readme-stats.vercel.app/api?username=gloxiinia&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloxiinia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gloxiinia&layout=compact&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gloxiinia/gloxiinia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
